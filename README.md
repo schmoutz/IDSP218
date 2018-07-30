@@ -1,5 +1,5 @@
 # IDSP 218 - Nervous System
-2019 PHARM 260 syllabus - pdf
+2019 IDSP 218 syllabus - pdf
 
 Lecture 1 (date) - Cells of the nervous system  
 slides (preview, ppt, pdf)  
